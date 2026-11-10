@@ -61,4 +61,5 @@ A iluminação dos LEDs varia automaticamente conforme a hora do dia para facili
 
 ```text
 ├── main.py       # Script principal (Wi-Fi, NTP, Lógica BCD e Controle do NeoPixel)
+├── diagram.json  # Diagrama do projeto
 └── README.md     # Documentação do projeto
